@@ -29,7 +29,7 @@ public class prime {
 			System.out.println("Number is not palindrome");
 		}*/
 		
-		/*2. check number is priome or not
+		//2. check number is priome or not
 		 Scanner s=new Scanner(System.in);
 		System.out.println("Please enter the number");
 		int n=s.nextInt();
@@ -55,7 +55,7 @@ public class prime {
 		else
 		{
 			System.out.println("number is not prime");
-		}*/
+		}
 		
 	
 	}
